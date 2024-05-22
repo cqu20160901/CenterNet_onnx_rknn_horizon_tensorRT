@@ -1,7 +1,7 @@
 # CenterNet_onnx_rknn_horizon_tensorRT
 CenterNet 部署版本，便于移植不同平台（onnx、tensorRT、rknn、Horizon）。
 
-**本来想做基于CenterNet的单目3D目标检测，觉得要先把centenet给捣鼓清楚，花了一点时间把centernet的后处理手撸了一遍。**
+**本来想做基于CenterNet的单目3D目标检测，但觉得要先把centenet后处理手撸一遍，说干就干。**
 
 centernet_onnx：onnx模型、测试图像、测试结果、测试demo脚本
 
