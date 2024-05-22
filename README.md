@@ -14,3 +14,7 @@ centernet_horizon：地平线模型、测试（量化）图像、测试结果、
 # onnx 测试效果
 
 ![image](https://github.com/cqu20160901/CenterNet_onnx_rknn_horizon_tensorRT/blob/main/centernet_onnx/test_onnx_result.jpg)
+
+
+# rknn C++ 部署参考
+[【rknn C++ 部署完整代码和模型】](https://github.com/cqu20160901/CenterNet_rknn_Cplusplus)
